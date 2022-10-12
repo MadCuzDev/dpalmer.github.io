@@ -7,13 +7,10 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  max-width: 1920px;
-  box-sizing: border-box;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
-  border-radius: 0px 0px 0px 0px;
-  background-color: rgba(215, 239, 77, 1);
+  background-color: rgba(55, 139, 111, 1);
 }
 .my-work-rectangle3 {
   top: 174px;
@@ -21,10 +18,7 @@
   width: 1788px;
   height: 778px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .my-work-rectangle1 {
   top: 33px;
@@ -32,10 +26,7 @@
   width: 1419px;
   height: 100px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .my-work-text {
   top: 47px;
@@ -54,7 +45,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .my-work-text02 {
   top: 47px;
@@ -73,7 +64,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .my-work-text04 {
   top: 47px;
@@ -92,7 +83,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .my-work-text06 {
   top: 209px;
@@ -111,15 +102,9 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
-.my-work-text07 {
-  text-decoration: UNDERLINE;
-}
-.my-work-text11 {
-  text-decoration: NONE;
-}
-.my-work-text16 {
+.my-work-text13 {
   top: 47px;
   left: 742px;
   color: rgba(255, 255, 255, 1);
@@ -144,10 +129,7 @@
   width: 97px;
   height: 97px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .my-work-image3 {
   top: 319px;
@@ -155,8 +137,5 @@
   width: 102px;
   height: 71px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }

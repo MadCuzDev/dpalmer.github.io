@@ -7,13 +7,10 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  max-width: 1920px;
-  box-sizing: border-box;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
-  border-radius: 0px 0px 0px 0px;
-  background-color: rgba(215, 239, 77, 1);
+  background-color: rgba(55, 139, 111, 1);
 }
 .home-rectangle1 {
   top: 33px;
@@ -21,10 +18,7 @@
   width: 1419px;
   height: 100px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .home-text {
   top: 47px;
@@ -62,7 +56,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .home-text04 {
   top: 47px;
@@ -81,7 +75,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .home-text06 {
   top: 47px;
@@ -100,7 +94,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .home-text08 {
   top: 246px;
@@ -127,8 +121,5 @@
   width: 200px;
   height: 200px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }

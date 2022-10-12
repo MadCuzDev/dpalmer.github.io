@@ -7,13 +7,10 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  max-width: 1920px;
-  box-sizing: border-box;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
-  border-radius: 0px 0px 0px 0px;
-  background-color: rgba(215, 239, 77, 1);
+  background-color: rgba(55, 139, 111, 1);
 }
 .cover-rectangle2 {
   top: 236px;
@@ -21,10 +18,7 @@
   width: 1788px;
   height: 795px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .cover-rectangle1 {
   top: 33px;
@@ -32,10 +26,7 @@
   width: 1419px;
   height: 100px;
   position: absolute;
-  box-sizing: border-box;
   border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
 }
 .cover-text {
   top: 47px;
@@ -54,7 +45,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .cover-text02 {
   top: 47px;
@@ -92,7 +83,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .cover-text06 {
   top: 246px;
@@ -149,5 +140,5 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: underline;
 }
