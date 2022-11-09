@@ -91,3 +91,27 @@
   text-transform: none;
   text-decoration: none;
 }
+
+.link {
+  top: 47px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 50px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.nav {
+  background-color: #215443;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+}
+
+body {
+  background-color: #378B6F;
+}
